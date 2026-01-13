@@ -1,3 +1,16 @@
+
+a site that lets you play chess minigames -- work in progress
+
+so far, memory chess, for improving board memory is game #1
+
+
+
+
+
+
+
+____________________________________________________________________________________________________________________________________________
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
